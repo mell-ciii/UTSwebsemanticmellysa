@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#e9ecef"/>
+  <g fill="#adb5bd">
+    <path d="M150 190l35-45 28 35 22-27 45 57H150z"/>
+    <circle cx="165" cy="115" r="16"/>
+  </g>
+  <text x="200" y="240" font-family="Arial, Helvetica, sans-serif" font-size="18"
+        fill="#6c757d" text-anchor="middle">Gambar Produk</text>
+</svg>
